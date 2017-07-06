@@ -1,10 +1,10 @@
 PYKWIKI = pykwiki
 
 html:
-	$(PYKWIKI) cache
+	touch links.yaml && $(PYKWIKI) cache
 
 force:
-	$(PYKWIKI) cache -f
+	touch links.yaml && $(PYKWIKI) cache -f
 
 all: html
 
