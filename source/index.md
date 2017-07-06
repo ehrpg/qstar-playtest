@@ -1,6 +1,5 @@
 [[
 title: Introduction
-author: "@nola, @johannes-z"
 description: An introduction to the Q* starter module.
 tags: [introduction]
 ]]

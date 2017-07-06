@@ -1,5 +1,5 @@
 blurb_max: 50
-date_format: '%d-%m-%Y'
+date_format: '%d.%m.%Y'
 home_page: index
 markdown_exts:
 - codehilite
@@ -23,7 +23,7 @@ source_ext: .md
 style: classic
 theme: null
 time_format: '%H:%M:%S'
-timestamp_format: '%d-%m-%Y %H:%M'
+timestamp_format: '%d.%m.%Y %H:%M'
 upload_exts:
 - .gif
 - .jpg
