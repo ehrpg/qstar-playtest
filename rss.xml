@@ -2,13 +2,13 @@
 <rss version="2.0">
 <channel>
     <title>Q* Starter Module</title>
-    <link>/</link>
+    <link>//qstar-playtest</link>
     <description>Example Site Description</description>
     
     <item>
         <title>Introduction</title>
-        <link>index.html</link>
-        <pubDate>Thu, 06 Jul 2017 18:25:25 CEST</pubDate>
+        <link>/qstar-playtest/index.html</link>
+        <pubDate>Thu, 06 Jul 2017 18:28:15 CEST</pubDate>
         <description>An introduction to the Q* starter module.</description>
     </item>    
     
