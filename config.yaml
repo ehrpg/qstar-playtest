@@ -1,0 +1,36 @@
+base_path: /home/johannes/private_html/qstar-starter
+blurb_max: 50
+date_format: '%Y-%m-%d'
+home_page: index
+markdown_exts:
+- codehilite
+- toc
+- pykwiki.ext.tpl
+- pykwiki.ext.post
+postlist:
+  max_pages: 5
+  order_field: mtime
+  order_type: descending
+  per_page: 2
+  post_type: preview
+rss_max_entries: 20
+site:
+  author: "@nola, @johannes-z"
+  base_url: ''
+  description: Example Site Description
+  keywords: example, pykwiki
+  title: "Q* Starter Module"
+source_ext: .md
+style: default
+theme: null
+time_format: '%H:%M:%S'
+timestamp_format: '%Y-%m-%d %H:%M'
+upload_exts:
+- .gif
+- .jpg
+- .jpeg
+- .png
+- .tiff
+- .pdf
+version: 2
+web_prefix: "/qstar-starter"

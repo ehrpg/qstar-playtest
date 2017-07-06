@@ -1,0 +1,8 @@
+name: "Dark"
+version: 1.2
+description: "A dark theme with light text"
+long_description: High contrast black & white theme with 
+    a dark background and light text. 
+author_name: "Aaron Meier"
+author_email: "webgovernor@gmail.com"
+author_website: http://nullism.com
