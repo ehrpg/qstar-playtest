@@ -15,7 +15,7 @@ postlist:
 rss_max_entries: 20
 site:
   author: "<a href='https://github.com/n0la'>@nola</a>, <a href='https://github.com/johannes-z'>@johannes-z</a>"
-  base_url: "https://ehrpg.github.io/qstar-playtest"
+  base_url: "https://ehrpg.github.io"
   description: Placeholder Description
   keywords: placeholder
   title: "Q* Starter Module"
