@@ -32,4 +32,3 @@ upload_exts:
 - .tiff
 - .pdf
 version: 2
-web_prefix: "/qstar-starter"
