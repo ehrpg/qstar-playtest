@@ -8,7 +8,8 @@ force:
 
 gh-pages: html
 	git checkout gh-pages
-	mv docroot/* .
+	cp -r docroot/* .
+	rm -rf docroot
 	git add -A
 	git commit -m "updated gh-pages from Makefile"
 	git push origin gh-pages
