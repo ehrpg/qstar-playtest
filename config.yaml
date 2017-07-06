@@ -1,5 +1,5 @@
 blurb_max: 50
-date_format: '%Y-%m-%d'
+date_format: '%d-%m-%Y'
 home_page: index
 markdown_exts:
 - codehilite
@@ -14,16 +14,16 @@ postlist:
   post_type: preview
 rss_max_entries: 20
 site:
-  author: "@nola, @johannes-z"
-  base_url: ''
-  description: Example Site Description
-  keywords: example, pykwiki
+  author: "<a href='https://github.com/n0la'>@nola</a>, <a href='https://github.com/johannes-z'>@johannes-z</a>"
+  base_url: "https://ehrpg.github.io/qstar-playtest"
+  description: Placeholder Description
+  keywords: placeholder
   title: "Q* Starter Module"
 source_ext: .md
-style: default
+style: classic
 theme: null
 time_format: '%H:%M:%S'
-timestamp_format: '%Y-%m-%d %H:%M'
+timestamp_format: '%d-%m-%Y %H:%M'
 upload_exts:
 - .gif
 - .jpg
