@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    
+    <title>Posts 1 | Q* Starter Module</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script> 
+    <script src="/qstar-starter/static/mustachejs/mustache.js"></script>
+    <link rel="stylesheet" href="/qstar-starter/static/style/style.css">
+    <link rel="icon" type="image/png" sizes="32x32" href="/qstar-starter/static/style/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/qstar-starter/static/style/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/qstar-starter/static/style/favicon-16x16.png"> 
+    <style type="text/css">
+    @import url("/qstar-starter/static/fonts/fontawesome.css");
+    /* fontawesome */
+    [class*="fontawesome-"]:before {
+      font-family: 'FontAwesome', sans-serif;
+    }
+    </style> 
+    <script>
+    // Globals
+    var has_gaq = false;
+    </script>
+    <!-- no style head.html found -->
+</head>
+<body>
+
+<div id="content" class="container">
+<div class="top-menu">
+<div class="container">
+  <div class="top-menu-mob">
+    <a class="top-menu-link" href="#" onclick="toggleMobMenu();"><span class="fontawesome-reorder"></span></a>
+  </div>
+  <div class="top-menu-full mob-hidden">
+    
+    <div class="top-menu-item">
+      
+        <a href="/qstar-starter/index.html" class="top-menu-link">Welcome</a>
+      
+    </div>
+  
+    <div class="top-menu-item">
+      
+        <a href="/qstar-starter/posts.html" class="top-menu-link">Posts</a>
+      
+    </div>
+  
+    <div class="top-menu-item">
+      
+        <a href="/qstar-starter/search.html" class="top-menu-link">Search</a>
+      
+    </div>
+  
+    <div class="top-menu-item">
+      
+        <a href="http://pykwiki.nullism.com" class="top-menu-link">PyKwiki Docs</a>
+      
+    </div>
+  
+    <div class="top-menu-item-right">
+      <form method="get" action="/qstar-starter/search.html">
+        <input type="text" name="q" class="input-text top-menu-search-field" placeholder="Search">
+      </form>
+    </div>
+  </div>
+</div>
+    <div class="clear"></div>
+</div><!-- end top-menu -->
+
+<script>
+function menuClick(i) 
+{
+    if($("#submenu_"+i).is(":visible"))
+    {
+        $("#submenu_"+i).hide();
+        $("#menuparent_"+i).removeClass('active');
+    }
+    else 
+    {
+        hideAllSubmenus();
+        $("#submenu_"+i).show();
+        $("#menuparent_"+i).addClass('active');
+    }
+    return false;
+}
+
+function hideAllSubmenus() {
+    $('.submenu').hide();
+    $('.top-menu-parent').removeClass('active');
+}
+
+var showMobMenu = false;
+function toggleMobMenu() {
+    if(showMobMenu) {
+        $(".top-menu-full").addClass('mob-hidden');
+    } else { 
+        $(".top-menu-full").removeClass('mob-hidden');
+    }
+    showMobMenu = !showMobMenu;
+    return false;
+}
+</script>
+
+<script>
+$(document).ready(function() { 
+    $('.submenu').hide();
+});
+
+$(document).click(function(e) {
+    var tgt = $(e.target);
+    if(!tgt.is('.top-menu-parent') && !tgt.is('.fontawesome-caret-down')) {
+        hideAllSubmenus();
+    }
+});
+</script>
+
+<div class="pager">
+<ul>
+  
+  
+    <li class="active">
+        <a href="/qstar-starter/postlist-1.html">1</a>
+    </li>
+  
+  
+</ul>
+<div class="clear"></div>
+</div>
+<style type="text/css">
+.toc-wrap { display: none; } 
+
+</style>
+<div id="postlist_wrap">
+
+<div class="list-post">
+    <h3>
+        <a href="/qstar-starter/index.html">Introduction</a> 
+        <span class="post-date">2017-07-06</span>
+    </h3>
+    <div class="clear"></div>
+    <div>
+        <div class="clear"></div> 
+        
+            <div class="post-tags">
+            
+                <a class="tag"
+                    href="/search.html?t=introduction">introduction
+                    <span class="fontawesome-tag"></span></a>
+            
+                <div class="clear"></div>
+            </div>
+        
+
+        
+            <div class="htmltruncate-md">
+                <h1 id="q-starter-module">Q* Starter Module</h1>
+<p>Find the rules at <a href="https://github.com/ehrpg/qstar">GitHub - ehrpg/qstar</a></p>
+                <div class="htmltruncate-bottom"></div>
+            </div>
+            <a href="/qstar-starter/index.html" class="btn btn-default">...</a>
+        
+        
+    </div>
+</div>
+
+</div>
+
+<div class="pager">
+<ul>
+  
+  
+    <li class="active">
+        <a href="/qstar-starter/postlist-1.html">1</a>
+    </li>
+  
+  
+</ul>
+<div class="clear"></div>
+</div>
+
+</div><!-- End #content -->
+<div class="clear"></div>
+<div id="footer">
+    <!-- no style footer.html found -->
+    <div class="container" style="text-align: center;">
+        <div>
+        <p class="text-muted credit">&copy; 2016 Q* Starter Module
+        &mdash; powered by <a href="http://pykwiki.nullism.com">PyKwiki</a>
+        </p>
+        </div>
+
+        
+
+        
+
+        
+
+
+        <div class="social-div">
+            <a href="/qstar-starter/rss.xml"
+                class="icon-link"><b class="big-icon fontawesome-rss"></b>RSS</a>
+        </div>
+
+        <div class="clear"></div>
+    </div>
+</div>
+</body>
+</html>

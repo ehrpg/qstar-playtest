@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+    <title>Q* Starter Module</title>
+    <link>//qstar-starter</link>
+    <description>Example Site Description</description>
+    
+    <item>
+        <title>Introduction</title>
+        <link>/qstar-starter/index.html</link>
+        <pubDate>Thu, 06 Jul 2017 18:15:12 CEST</pubDate>
+        <description>An introduction to the Q* starter module.</description>
+    </item>    
+    
+</channel>
+</rss>
