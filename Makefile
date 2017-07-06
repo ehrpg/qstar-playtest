@@ -7,6 +7,7 @@ force:
 	$(PYKWIKI) cache -f
 
 gh-pages: html
+	git pull
 	git checkout gh-pages
 	cp -r docroot/* .
 	rm -rf docroot
