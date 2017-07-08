@@ -20,5 +20,3 @@ tags: [planet]
 ## Flora
 
 ## Fauna
-
-* [Raptor](../creatures/raptor.html)
