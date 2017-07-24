@@ -13,7 +13,7 @@ Find the rules at [GitHub - ehrpg/qstar](https://github.com/ehrpg/qstar)
 ## Setting
 
 * Planets:
-    * [Vetoo 851d](planets/vetoo_851d.html)
+    * [Vetoo 851d](planets/vetoo_581d.html)
 * Vessels:
     * [Precursor](vessels/precursor.html)
 * Factions:

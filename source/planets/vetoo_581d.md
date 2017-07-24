@@ -3,8 +3,6 @@ title: "Planet: Vetoo 581d"
 tags: [planet]
 ]]
 
-# Planet: Vetoo 581d
-
 | Stats          |                |        |
 | -------------- | -------------- | -----: |
 | **Name**       | Vetoo III or Vetoo 581d |
