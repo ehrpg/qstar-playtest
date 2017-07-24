@@ -7,11 +7,21 @@ tags: [planet]
 
 | Stats          |                |        |
 | -------------- | -------------- | -----: |
+| **Name**       | Vetoo III or Vetoo 581d |
 | **Gravity**    |                |   0.9g |
 | **Atmosphere** | Oxygen         |     8% |
 |                | Argon          |  0.93% |
 |                | Carbon Dioxide | 13.07% |
 |                | Nitrogen       |    78% |
+
+## Planet
+
+Vetoo 581d, or Vetoo III, is the third planet from the main sequence
+star Vetoo. It orbits its host star in roughly 400 days, and orbits
+its own axis in roughly 30 hours. The planet itself once had a moon,
+but it got torn apart by the
+[tidal forces of the planet](https://en.wikipedia.org/wiki/Roche_limit).
+The rocks that once were Vetoo IIIb now orbit the planet in a ring.
 
 ## Environment
 
