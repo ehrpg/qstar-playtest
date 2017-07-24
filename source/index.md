@@ -14,3 +14,9 @@ Find the rules at [GitHub - ehrpg/qstar](https://github.com/ehrpg/qstar)
 
 * Planets:
     * [Vetoo 851d](planets/vetoo_851d.html)
+* Vessels:
+    * [Precursor](vessels/precursor.html)
+* Factions:
+    * [Arstir](factions/arstir_industries.html)
+* NPCs:
+    * [Mark Dubois](characters/mark_dubois.html)
