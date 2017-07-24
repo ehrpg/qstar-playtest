@@ -7,6 +7,9 @@ tags: [introduction]
 
 Find the rules at [GitHub - ehrpg/qstar](https://github.com/ehrpg/qstar)
 
+* [Perks](perks.html)
+* [Flaws](flaws.html)
+
 ## Setting
 
 * Planets:
