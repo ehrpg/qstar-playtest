@@ -15,6 +15,7 @@ Find the rules at [GitHub - ehrpg/qstar](https://github.com/ehrpg/qstar)
 * Planets:
     * [Vetoo 851d](planets/vetoo_581d.html)
 * Vessels:
+    * [Polaris](vessels/polaris.html)
     * [Precursor](vessels/precursor.html)
 * Factions:
     * [Arstir](factions/arstir_industries.html)
