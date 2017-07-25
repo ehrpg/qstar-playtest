@@ -15,8 +15,8 @@ brown hair, and a rather thick Scottish accent.
 | Speed             | 6 (+1)
 | Intelligence      | 7 (+2)
 | Charisma          | 5
-| Endurance         | 20
-| Health            | 15
+| Endurance         | 56
+| Health            | 38
 | *First Aid*       | 3 (3d10)
 
 Equipment:

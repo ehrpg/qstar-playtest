@@ -16,8 +16,8 @@ of head of engineering made him quite arrogant and condescending.
 | Speed             | 5
 | Intelligence      | 7 (+2)
 | Charisma          | 5
-| Endurance         | 20
-| Health            | 15
+| Endurance         | 49
+| Health            | 31
 | *Engineering*     | 2 (2d10)
 | *Hacking*         | 2 (2d10)
 

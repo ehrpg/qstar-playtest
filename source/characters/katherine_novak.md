@@ -17,8 +17,8 @@ has short brown hair and a quite muscular body.
 | Speed             | 6 (+1)
 | Intelligence      | 4 (-1)
 | Charisma          | 5
-| Endurance         | 20 + 1d10 (25)
-| Health            | 15 + 1d6 (18)
+| Endurance         | 60
+| Health            | 35
 | *Athletics*       | 2 (2d10)
 | *Melee*           | 2 (2d10)
 | *Light Weapons*   | 2 (2d10)

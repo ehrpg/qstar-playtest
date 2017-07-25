@@ -18,8 +18,8 @@ short, 1.65, has short black hair and brown eyes.
 | Speed             | 6 (+1)
 | Intelligence      | 5
 | Charisma          | 4 (-1)
-| Endurance         | 20
-| Health            | 15
+| Endurance         | 38
+| Health            | 31
 | *Engineering*     | 2 (2d10)
 | *Piloting*        | 2 (2d10)
 
