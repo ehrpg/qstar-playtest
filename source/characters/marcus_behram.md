@@ -7,7 +7,8 @@ tags: ["character", "pilot", "precursor"]
 Marcus Behram was one of the pilots of the Precursor. He served under
 Lt. Andrea Gord, along with three other co pilots. Freshly trained from
 the flight school he is still considered a rookie pilot. Markus covers
-his insecurities as a rookie pilot with loads of sarcasm.
+his insecurities as a rookie pilot with loads of sarcasm. He is rather
+short, 1.65, has short black hair and brown eyes.
 
 ## Statistics
 
