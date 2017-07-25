@@ -21,12 +21,14 @@ but it got torn apart by the
 [tidal forces of the planet](https://en.wikipedia.org/wiki/Roche_limit).
 The rocks that once were Vetoo IIIb now orbit the planet in a ring.
 
+The planets surface is suffering from high radiation, mutating living cells.
+
 ## Environment
 
 Although the planets gravity is close to that of the earth, it's
 atmosphere is toxic to humans. The high concentration of carbon
 dioxide, compared to the low volumes of oxygen makes the planet
-hostile to all land based life forms.
+hostile to most land based life forms.
 
 The large salt water oceans on the planet are filled with animals and
 plants. Large fresh water lakes and rivers can be found on the land
@@ -58,12 +60,13 @@ mud.
 
 ## Flora
 
-No plants grow on the land surface of the planet. Although a wide
-variety of plants, including green plants that perform photosynthesis,
-can be found in lakes and the ocean.
+The land is sparsely covered by plants. Most plants provide food for herbivores,
+although they are usually highly poisonous to humans when consumed. The lakes
+and the ocean are filled with a great variaty of planets, including green plants
+that perform photosynthesis, can be found in lakes and the ocean.
 
 ## Fauna
 
 Although the planet has already developed a wide variety of animals
-in the ocean and fresh water streams and lakes, there are no land
-animals on Vetoo 581d.
+in the ocean and fresh water streams and lakes, there are no catalogued
+land animals on Vetoo 581d yet.
