@@ -15,7 +15,3 @@ science crew assigned to it managed to get the habitats and a comms array
 operational. The last message earth received from them stated, that violent
 thunderstorms made communications over long periods of time impossible. Nobody
 has heared anything from them since then.
-
-## Crew
-
-* [Marcus Behram](../characters/marcus_behram.html) (Pilot)

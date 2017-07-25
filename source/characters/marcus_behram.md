@@ -1,7 +1,7 @@
 [[
 title: Marcus Behram
 author: @n0la
-tags: ["character", "pilot", "precursor"]
+tags: ["character", "pilot", "polaris"]
 ]]
 
 Marcus Behram was one of the pilots of the Precursor. He served under
